@@ -13,7 +13,7 @@ AWS_ACCESS_KEY = Variable.get("AWS_ACCESS_KEY_ID")
 AWS_SECRET_ACCESS_KEY = Variable.get("AWS_SECRET_ACCESS_KEY")
 FRED_API_KEY = Variable.get("FRED_API_KEY")
 
-# FRED SERIES ID
+# FRED SERIES ID 적당한 시리즈 아이디 입력 필요.
 SERIES_ID = 'AIRRPMTSID11'
 
 # 데이터베이스, 스키마, 테이블 정보
